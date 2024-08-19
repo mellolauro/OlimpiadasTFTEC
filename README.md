@@ -5,7 +5,8 @@ https://github.com/Wanderson304/Base-de-conhecimento-Olimpi-adas-Azure-2024--TFT
 
 <h1 align="center"> Objetivo </h1>
                     
-#Geração de um repositório, para a inclusão de pessoas com problemas de audição.
+# Geração de um repositório, para a inclusão de pessoas com problemas de audição.
+Uma forma de disponibilizar conhecimento para pessoas com este tipo de restrição. 
 
 # - FASE01 - Surfando a onda do Azure
   - [ ] - AULA01 - Apresentação do Projeto
